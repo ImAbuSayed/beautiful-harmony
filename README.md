@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/beautiful-harmony/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Beautiful Harmony](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beautiful-harmony/) |
+| **Get License** | [Official Music Licensing for Beautiful Harmony](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beautiful-harmony/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Moonlight is spilling across the wooden floor
+> I never needed a moment like this before
+> Tracing the memories we cannot hide
+> Nowhere to be, let the midnight slide
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
